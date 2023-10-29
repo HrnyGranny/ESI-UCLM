@@ -45,6 +45,7 @@ Just the info available in the problem dedinition. Heuristic don't care.
 
 ### Informed search algorithms
 Heuristic functions.
+
 h(n) : Estimate a cost from n to the closest goal
 
 #### Greedy best-first search
