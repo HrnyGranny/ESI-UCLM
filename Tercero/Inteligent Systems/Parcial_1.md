@@ -45,6 +45,7 @@ Just the info available in the problem dedinition. Heuristic don't care.
 
 ### Informed search algorithms
 Heuristic functions.
+h(n) : Estimate a cost from n to the closest goal
 
 #### Greedy best-first search
 * Vas abriendo en funcion de la q menos heuristica tenga 
@@ -55,6 +56,13 @@ Heuristic functions.
 * Vas abriendo en funcion del VALUE | Si el coste es igual abres de izq a derecha como en BFS
 * CUT: 
 * VALUE = COST + HEURISTICS
+
+## Ejercicio de estados
+
+* Variables: Factores relevantes a tener en cuenta q marcaran las caracteristicas de un estado (State = (Variable,variable,...))
+* State Space (State + Sucessor function)
+* Initial Space
+* Goal function
 
 
 
