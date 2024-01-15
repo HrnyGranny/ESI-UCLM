@@ -67,13 +67,44 @@ Speedup/cost = Gx/Cx
 
 ![Screenshot_20240111_142702](https://github.com/HrnyGranny/ESI-UCLM/assets/91948162/4dbf686d-f950-482b-854a-be148770a4f9)
 
-### AI / BW
+### AI
 
-AI = Num FLOPS / Flops/bytes x Bytes = Flops/Bytes
+AI = Operations / Operations in memory x Bytes = Flops/Bytes
 
-BW = AI x Performance GFLOP / optimal point
+* Operations = + / - / x / %
+
+* Operations in memory = Load / store
+
+### Maximum performance value
+
+* Maximum performance (GFLOP/s)
+* Maximum performance (GFLOP)
+* AI optimal point 
+* AI
+* Limit AI = Optimal point AI
+
+#### Code
+
+BW = Maximum performance (GFLOP/s) /  AI optimal point
+
+BW = Maximum performance (GFLOP) x AI /  AI optimal point
+
+Max Performance = BW x AI
+
+#### Kernel
+
+* AI optimal point = Limit AI / AI
+
+Max Performance = Maximum performance (GFLOP/s) / AI optimal point
+
+--------------------
+
+* Memmory bound --> Max Performance far from current Max performance (Calculated)
 
 ### Roofline diagram
+
+*  
+* 
 
 ## TEMA 3
 
