@@ -121,3 +121,7 @@ CUIDAO con el ETT q no deja usar hasta q pase X time si hay q dejar huecos se de
 ![Screenshot_20240115_162640](https://github.com/HrnyGranny/ESI-UCLM/assets/91948162/f866e81b-b8c8-485f-934a-9b8c7f4f6917)
 
 
+### Tomasulo
+
+![Screenshot_20240115_193759](https://github.com/HrnyGranny/ESI-UCLM/assets/91948162/aea9e13c-c3d1-46a2-9cf3-bbc0e027248a)
+![Screenshot_20240115_194106](https://github.com/HrnyGranny/ESI-UCLM/assets/91948162/874a1251-8dc2-4971-bdbc-27df12290255)
