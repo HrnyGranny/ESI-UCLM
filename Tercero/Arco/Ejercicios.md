@@ -110,7 +110,14 @@ Max Performance = Maximum performance (GFLOP/s) / AI optimal point
 
 ### DAG
 
+![Screenshot_20240115_162446](https://github.com/HrnyGranny/ESI-UCLM/assets/91948162/d5dc70db-6d29-4fe1-8e66-b0ede0bb8281)
+
+
 ### Warrens algorithm
 
+CUIDAO con el ETT q no deja usar hasta q pase X time si hay q dejar huecos se dejan
+
+![Screenshot_20240115_162600](https://github.com/HrnyGranny/ESI-UCLM/assets/91948162/eca92a56-6a9d-43e3-b075-383b9496d6f8)
+![Screenshot_20240115_162640](https://github.com/HrnyGranny/ESI-UCLM/assets/91948162/f866e81b-b8c8-485f-934a-9b8c7f4f6917)
 
 
