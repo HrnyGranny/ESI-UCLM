@@ -63,6 +63,7 @@ Speedup/cost = Gx/Cx
 * Intra loop / same interaction --> Los que son iguales y estan en distintos loops 
 * loop carried / between interactions --> Se dan cuando ha acabado la interación (A la sig vuelta del bucle) entre i+1 y un i
 * AMBOS TIENEN QUE ESTAR UNO DELANTE DEL = Y OTRO DESPUES
+* TIENES QUE ESTAR EN DIFF INTERACIONES NO VALE EN LA MISMA
 * RAW / WAR / WAW
 
 ![Screenshot_20240111_142702](https://github.com/HrnyGranny/ESI-UCLM/assets/91948162/4dbf686d-f950-482b-854a-be148770a4f9)
