@@ -23,8 +23,10 @@ TCPU = IC x CPI x T
 Tp = (1-P + P/C) x TCPU = (1-P + P/C) x CC / F
 
 --------------
-* Rendimiento realtivo de CPU1 respecto de CPU2 / Cuanto mas rapida --> TCPU2 / TCPU1
-* Comparar frecuencias --> TCPU1 = TCPU2 y despejas F
+
+![Screenshot_20240123_185012](https://github.com/HrnyGranny/ESI-UCLM/assets/91948162/82efb864-d7c0-42f3-8e6e-60b3b949c9aa)
+
+
 
 ### Dynamic power
 
@@ -37,7 +39,8 @@ Tp = (1-P + P/C) x TCPU = (1-P + P/C) x CC / F
 Pdyn = k x CL x V^2 x F x N
 
 ---------
-* Potencia dimanima de CPU1 respecto de CPU2 --> Pdyn2 / Pdyn1 || (V / F / N) ---> CAMBIA
+
+![Screenshot_20240123_185035](https://github.com/HrnyGranny/ESI-UCLM/assets/91948162/8992b51d-1c15-472f-8cf4-f00c68d6eee2)
 
 ### Energy 
 
