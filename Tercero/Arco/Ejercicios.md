@@ -129,3 +129,15 @@ CUIDAO con el ETT q no deja usar hasta q pase X time si hay q dejar huecos se de
 
 ![Screenshot_20240115_193759](https://github.com/HrnyGranny/ESI-UCLM/assets/91948162/aea9e13c-c3d1-46a2-9cf3-bbc0e027248a)
 ![Screenshot_20240115_194106](https://github.com/HrnyGranny/ESI-UCLM/assets/91948162/874a1251-8dc2-4971-bdbc-27df12290255)
+
+## TEMA 4
+
+* El flush --> se realiza cuando una caché tiene el bloque modificado y otra solicita leer o escribir ese mismo dato. Como la memoria no tiene el dato (para no generar tráfico en el bus) se envía el dato a memoria y se actualiza el bloque.
+
+    * I I M I ---> I M I I
+    * I I M I ---> I I S S
+    * I I S I ---> I M I I
+    * I I S I ---> I I S S
+      
+
+* BusUPG --> Cuando modificas un cache Shared (es decir haces un hit)
